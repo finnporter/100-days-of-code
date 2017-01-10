@@ -16,3 +16,12 @@
 **Thoughts** I've only very recently started coding, and it's a great feeling when I finally work out why something doesn't work the way I wanted it to or find a more elegant way of writing code.
 
 **Link(s) to work**
+
+
+### Day 2: Jan 10, Tuesday
+
+**Today's Progress**: I've gone through some exercises in my Skillshare class.
+
+**Thoughts** Not feeling super motivated today since I've already run a lot of errands and will have to leave in a few minutes again. Time is short today. 
+
+**Link(s) to work**
