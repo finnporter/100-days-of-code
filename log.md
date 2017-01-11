@@ -25,3 +25,12 @@
 **Thoughts** Not feeling super motivated today since I've already run a lot of errands and will have to leave in a few minutes again. Time is short today. 
 
 **Link(s) to work**
+
+
+### Day 3: Jan 11, Wednesday
+
+**Today's Progress**: I've done exercises on skillshare about indexing.
+
+**Thoughts** Kinda stressed out about the whole aspect of code every day, because I'm going to be travelling for the next few days and I'm not sure if I'll have the opportunity to take an hour to do so. 
+
+**Link(s) to work**
