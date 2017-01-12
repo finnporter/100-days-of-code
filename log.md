@@ -38,8 +38,8 @@
 
 ### Day 4: Jan 12, Thursday
 
-**Today's Progress**: I've done exercises on skillshare about looping and ranges.
+**Today's Progress**: I've done exercises on skillshare about looping.
 
-**Thoughts** Using crappy train Wi-Fi to keep up the streak. Internet has never been slower. 
+**Thoughts** Using crappy train Wi-Fi to keep up the streak. Internet has never been slower. I wanted to do looping and ranges and in more than one hour but the wifi simply wasn't good enough for video streaming.
 
 **Link(s) to work**
