@@ -34,3 +34,12 @@
 **Thoughts** Kinda stressed out about the whole aspect of code every day, because I'm going to be travelling for the next few days and I'm not sure if I'll have the opportunity to take an hour to do so. 
 
 **Link(s) to work**
+
+
+### Day 4: Jan 12, Thursday
+
+**Today's Progress**: I've done exercises on skillshare about looping and ranges.
+
+**Thoughts** Using crappy train Wi-Fi to keep up the streak. Internet has never been slower. 
+
+**Link(s) to work**
