@@ -43,3 +43,11 @@
 **Thoughts** Using crappy train Wi-Fi to keep up the streak. Internet has never been slower. I wanted to do looping and ranges and in more than one hour but the wifi simply wasn't good enough for video streaming.
 
 **Link(s) to work**
+
+### Day 5: Jan 23, Monday
+
+**Today's Progress**: I've revised a little bit and gone on to ranges
+
+**Thoughts** Travel and being sick has made it impossible for me to keep my streak going. But I am determined to be back now. Finger's crossed, I won't fall ill again so soon.
+
+**Link(s) to work**
