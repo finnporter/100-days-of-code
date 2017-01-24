@@ -44,10 +44,20 @@
 
 **Link(s) to work**
 
+
 ### Day 5: Jan 23, Monday
 
 **Today's Progress**: I've revised a little bit and gone on to ranges
 
 **Thoughts** Travel and being sick has made it impossible for me to keep my streak going. But I am determined to be back now. Finger's crossed, I won't fall ill again so soon.
+
+**Link(s) to work**
+
+
+### Day 6: Jan 24, Tuesday
+
+**Today's Progress**: I've made quite a bit of progress learning about objects, hashes and symbols
+
+**Thoughts** For the first time, I've had the feeling that things are coming together a little bit. Classes were especially helpful, given that I've been trying to do things that require classes without actually knowing about them yet.
 
 **Link(s) to work**
