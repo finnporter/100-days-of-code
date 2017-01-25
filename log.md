@@ -61,3 +61,12 @@
 **Thoughts** For the first time, I've had the feeling that things are coming together a little bit. Classes were especially helpful, given that I've been trying to do things that require classes without actually knowing about them yet.
 
 **Link(s) to work**
+
+
+### Day 7: Jan 25, Wednesday
+
+**Today's Progress**: Easy lesson today. Time and its methods, formats, strftime, etc.
+
+**Thoughts** I started the day with an hour or so of ruby instead of work. nice change of pace.
+
+**Link(s) to work**
