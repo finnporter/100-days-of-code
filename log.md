@@ -2,11 +2,11 @@
 
 ### Day 11: Jan 29, Sunday
 
-**Today's Progress**: Doing the last of the skillshare class
+**Today's Progress**: Doing the last of the skillshare class and then some research about Rails. Like Leila Hofer's video about MVC and Rails.
 
 **Thoughts** Took a long walk in the cold today, so my typing is off. But I'm glad I sat down to code anyways.
 
-**Link(s) to work**
+**Link(s)** https://www.youtube.com/watch?v=gTBCHu0btn8
 
 
 ### Day 10: Jan 28, Saturday
