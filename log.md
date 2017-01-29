@@ -1,55 +1,37 @@
 # 100 Days Of Code - Log
 
-### Day 0: Jan 9, 2017
+### Day 10: Jan 29, Sunday
 
-**Today's Progress**: Setting myself up to learn coding by joining #100DaysOfCode
+**Today's Progress**: Doing the last of the skillshare class
 
-**Thoughts:** I won't be able to work on any projects as such but I will follow skillshare classes and do exercises every day.
-
-**Link to work:** 
-
-
-### Day 1: Jan 9, Monday
-
-**Today's Progress**: I've gone through many exercises in my Skillshare class.
-
-**Thoughts** I've only very recently started coding, and it's a great feeling when I finally work out why something doesn't work the way I wanted it to or find a more elegant way of writing code.
+**Thoughts** Took a long walk in the cold today, so my typing is off. But I'm glad I sat down to code anyways.
 
 **Link(s) to work**
 
 
-### Day 2: Jan 10, Tuesday
+### Day 9: Jan 27, Friday
 
-**Today's Progress**: I've gone through some exercises in my Skillshare class.
+**Today's Progress**: Took a break from Skillshare to try out Ruby Monk, beginners course, went through almost all of it
 
-**Thoughts** Not feeling super motivated today since I've already run a lot of errands and will have to leave in a few minutes again. Time is short today. 
-
-**Link(s) to work**
-
-
-### Day 3: Jan 11, Wednesday
-
-**Today's Progress**: I've done exercises on skillshare about indexing.
-
-**Thoughts** Kinda stressed out about the whole aspect of code every day, because I'm going to be travelling for the next few days and I'm not sure if I'll have the opportunity to take an hour to do so. 
+**Thoughts** Not sure how much I like Ruby Monk. It doesn't really explain a lot. Don't think that I would've understood much if it weren't for the skillshare class.
 
 **Link(s) to work**
 
 
-### Day 4: Jan 12, Thursday
+### Day 8: Jan 26, Thursday
 
-**Today's Progress**: I've done exercises on skillshare about looping.
+**Today's Progress**: Just a very short revision
 
-**Thoughts** Using crappy train Wi-Fi to keep up the streak. Internet has never been slower. I wanted to do looping and ranges and in more than one hour but the wifi simply wasn't good enough for video streaming.
+**Thoughts** Didn't have much time doing anything today.
 
 **Link(s) to work**
 
 
-### Day 5: Jan 23, Monday
+### Day 7: Jan 25, Wednesday
 
-**Today's Progress**: I've revised a little bit and gone on to ranges
+**Today's Progress**: Easy lesson today. Time and its methods, formats, strftime, etc.
 
-**Thoughts** Travel and being sick has made it impossible for me to keep my streak going. But I am determined to be back now. Finger's crossed, I won't fall ill again so soon.
+**Thoughts** I started the day with an hour or so of ruby instead of work. nice change of pace.
 
 **Link(s) to work**
 
@@ -63,10 +45,55 @@
 **Link(s) to work**
 
 
-### Day 7: Jan 25, Wednesday
+### Day 5: Jan 23, Monday
 
-**Today's Progress**: Easy lesson today. Time and its methods, formats, strftime, etc.
+**Today's Progress**: I've revised a little bit and gone on to ranges
 
-**Thoughts** I started the day with an hour or so of ruby instead of work. nice change of pace.
+**Thoughts** Travel and being sick has made it impossible for me to keep my streak going. But I am determined to be back now. Finger's crossed, I won't fall ill again so soon.
 
 **Link(s) to work**
+
+
+### Day 4: Jan 12, Thursday
+
+**Today's Progress**: I've done exercises on skillshare about looping.
+
+**Thoughts** Using crappy train Wi-Fi to keep up the streak. Internet has never been slower. I wanted to do looping and ranges and in more than one hour but the wifi simply wasn't good enough for video streaming.
+
+**Link(s) to work**
+
+
+### Day 3: Jan 11, Wednesday
+
+**Today's Progress**: I've done exercises on skillshare about indexing.
+
+**Thoughts** Kinda stressed out about the whole aspect of code every day, because I'm going to be travelling for the next few days and I'm not sure if I'll have the opportunity to take an hour to do so. 
+
+**Link(s) to work**
+
+
+### Day 2: Jan 10, Tuesday
+
+**Today's Progress**: I've gone through some exercises in my Skillshare class.
+
+**Thoughts** Not feeling super motivated today since I've already run a lot of errands and will have to leave in a few minutes again. Time is short today. 
+
+**Link(s) to work**
+
+
+### Day 1: Jan 9, Monday
+
+**Today's Progress**: I've gone through many exercises in my Skillshare class.
+
+**Thoughts** I've only very recently started coding, and it's a great feeling when I finally work out why something doesn't work the way I wanted it to or find a more elegant way of writing code.
+
+**Link(s) to work**
+
+
+### Day 0: Jan 9, 2017
+
+**Today's Progress**: Setting myself up to learn coding by joining #100DaysOfCode
+
+**Thoughts:** I won't be able to work on any projects as such but I will follow skillshare classes and do exercises every day.
+
+**Link to work:** 
