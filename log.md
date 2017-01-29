@@ -1,10 +1,19 @@
 # 100 Days Of Code - Log
 
-### Day 10: Jan 29, Sunday
+### Day 11: Jan 29, Sunday
 
 **Today's Progress**: Doing the last of the skillshare class
 
 **Thoughts** Took a long walk in the cold today, so my typing is off. But I'm glad I sat down to code anyways.
+
+**Link(s) to work**
+
+
+### Day 10: Jan 28, Saturday
+
+**Today's Progress**: More Ruby Monk and some skillshare class afterward. inheritance.
+
+**Thoughts** No particular thoughts.
 
 **Link(s) to work**
 
