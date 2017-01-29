@@ -6,7 +6,9 @@
 
 **Thoughts** Took a long walk in the cold today, so my frozen fingers don't like typing. But I'm glad I sat down to code anyways.
 
-**Link(s)** https://www.youtube.com/watch?v=gTBCHu0btn8
+**Link(s)** 
+https://www.youtube.com/watch?v=gTBCHu0btn8
+https://github.com/finnporter/100-days-of-code/tree/master/lrthw ex1..ex5
 
 
 ### Day 10: Jan 28, Saturday
