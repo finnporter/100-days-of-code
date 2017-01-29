@@ -4,7 +4,7 @@
 
 **Today's Progress**: Doing the last of the skillshare class and then some research about Rails. Like Leila Hofer's video about MVC and Rails. Got started with Learn Ruby the Hard Way.
 
-**Thoughts** Took a long walk in the cold today, so my typing is off. But I'm glad I sat down to code anyways.
+**Thoughts** Took a long walk in the cold today, so my frozen fingers don't like typing. But I'm glad I sat down to code anyways.
 
 **Link(s)** https://www.youtube.com/watch?v=gTBCHu0btn8
 
