@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+
+### Day 12: Jan 30, Monday
+
+**Today's Progress**: Continuing with Learn Ruby the hard way and did a few exercises.
+
+**Thoughts** LRtHW is moving very slowly. But I reckon that's a good thing and I'm just being impatient.
+
+**Link(s)** 
+https://github.com/finnporter/100-days-of-code/tree/master/lrthw ex6..ex11
+
+
 ### Day 11: Jan 29, Sunday
 
 **Today's Progress**: Doing the last of the skillshare class and then some research about Rails. Like Leila Hofer's video about MVC and Rails. Got started with Learn Ruby the Hard Way.
