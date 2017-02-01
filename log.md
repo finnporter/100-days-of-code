@@ -1,6 +1,16 @@
 # 100 Days Of Code - Log
 
 
+### Day 13: Feb 1, Wednesday
+
+**Today's Progress**: Continuing with Learn Ruby the hard way and did a few exercises.
+
+**Thoughts** I'm finally seeing the merits of moving so slowly through the exercises.
+
+**Link(s)** 
+https://github.com/finnporter/100-days-of-code/tree/master/lrthw ex12..ex15
+
+
 ### Day 12: Jan 30, Monday
 
 **Today's Progress**: Continuing with Learn Ruby the hard way and did a few exercises.
