@@ -1,6 +1,16 @@
 # 100 Days Of Code - Log
 
 
+### Day 14: Feb 8, Wednesday
+
+**Today's Progress**: Continuing with Learn Ruby the hard way and did a few exercises.
+
+**Thoughts** I've not been able to do one of the study drills. I've let it sit for a while and suddenly it was very clear to me. Unfortunately, it was a very long sitting period. But I really want to do exercises daily again.
+
+**Link(s)** 
+https://github.com/finnporter/100-days-of-code/tree/master/lrthw ex16
+
+
 ### Day 13: Feb 1, Wednesday
 
 **Today's Progress**: Continuing with Learn Ruby the hard way and did a few exercises.
