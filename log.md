@@ -1,6 +1,16 @@
 # 100 Days Of Code - Log
 
 
+### Day 15: Feb 21, Tuesday
+
+**Today's Progress**: Continuing with Learn Ruby the hard way and did one exercise.
+
+**Thoughts** I've hit a little bit of a slump because of other responsibilities but I'm confident I can come back to my coding regularly soon.
+
+**Link(s)** 
+https://github.com/finnporter/100-days-of-code/tree/master/lrthw ex17
+
+
 ### Day 14: Feb 8, Wednesday
 
 **Today's Progress**: Continuing with Learn Ruby the hard way and did a few exercises.
