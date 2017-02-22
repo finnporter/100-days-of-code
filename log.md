@@ -1,6 +1,16 @@
 # 100 Days Of Code - Log
 
 
+### Day 16: Feb 22, Wednesday
+
+**Today's Progress**: Continuing with Learn Ruby the hard way and did two exercises.
+
+**Thoughts** It seems I'm getting back into it. Those two exercises took me very long but I solved them. I only came up with 5 ways to write a function instead of 10. But I'm too hungry to go on and it's too late to go back to it later.
+
+**Link(s)** 
+https://github.com/finnporter/100-days-of-code/tree/master/lrthw ex18, ex19
+
+
 ### Day 15: Feb 21, Tuesday
 
 **Today's Progress**: Continuing with Learn Ruby the hard way and did one exercise.
