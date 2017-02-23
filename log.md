@@ -1,6 +1,16 @@
 # 100 Days Of Code - Log
 
 
+### Day 17: Feb 23, Thursday
+
+**Today's Progress**: Continuing with Learn Ruby the hard way and did two exercises that were quite long. I'm also doing ex22 and ex23 but they don't have any code, so I won't upload anything.
+
+**Thoughts** The trick really is to do a little bit each day. That way what I learn can settle and also, I don't get that feeling you get when you push something to the next day and the next and the next. When I study every day, that feeling of dread doesn't happen because I still remember how much fun it was yesterday. Somehow, I forget that when I take too much of a break.
+
+**Link(s)** 
+https://github.com/finnporter/100-days-of-code/tree/master/lrthw ex20, ex21
+
+
 ### Day 16: Feb 22, Wednesday
 
 **Today's Progress**: Continuing with Learn Ruby the hard way and did two exercises.
