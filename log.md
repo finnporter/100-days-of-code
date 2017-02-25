@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 18: Feb 25, Saturday
+
+**Today's Progress**: Couldn't do anything yesterday because job search was prevalent. But today, I more than made up for it by doing 4 huge exercises.
+
+**Thoughts** My head hurts. It's getting complicated and I should probably revise before moving on to the next part.
+
+**Link(s)** 
+https://github.com/finnporter/100-days-of-code/tree/master/lrthw ex22..ex25
+
 
 ### Day 17: Feb 23, Thursday
 
