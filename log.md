@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 19: Feb 26, Sunday
+
+**Today's Progress**: Revising a little bit and learning more about Terminal/Command lines
+
+**Thoughts** Forcing myself to take it slow is hard. But I can see that it works so I'll stick with it.
+
+**Link(s)** 
+
+
 ### Day 18: Feb 25, Saturday
 
 **Today's Progress**: Couldn't do anything yesterday because job search was prevalent. But today, I more than made up for it by doing 4 huge exercises.
