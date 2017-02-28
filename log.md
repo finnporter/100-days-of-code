@@ -1,5 +1,23 @@
 # 100 Days Of Code - Log
 
+### Day 21: Feb 27, Tuesday
+
+**Today's Progress**: Revising commandlines and playing around with them in Terminal to make sure they stick
+
+**Thoughts** No thoughts, except that I feel like I'm making progress. And I'm contemplating doing a front end dev class next and put ruby on the back burner even though it's more fun.
+
+**Link(s)**
+
+
+### Day 20: Feb 27, Monday
+
+**Today's Progress**: Wrote flashcards for command line
+
+**Thoughts** Not much time to do anything but at least it was a little bit.
+
+**Link(s)**
+
+
 ### Day 19: Feb 26, Sunday
 
 **Today's Progress**: Revising a little bit and learning more about Terminal/Command lines
