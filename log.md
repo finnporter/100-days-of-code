@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 22: Mar 6, Monday
+
+**Today's Progress**: I went through more Ruby the Hard Way exercises. A lot of them offline.
+
+**Thoughts** I've been using my flashcards to learn commands the last few days but I didn't think to continue the log. So I will now blanket-continue it.
+
+**Link(s)** 
+https://github.com/finnporter/100-days-of-code/tree/master/lrthw ex26..ex29
+
+
 ### Day 21: Feb 27, Tuesday
 
 **Today's Progress**: Revising commandlines and playing around with them in Terminal to make sure they stick
