@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 23: Mar 7, Tuesday
+
+**Today's Progress**: Command line. All of it. A whole day of command line.
+
+**Thoughts** It's a good feeling to know something that is part of coding fairly well. I can use Terminal for a lot of things and those I can't I know how to look up. I feel very accomplished and ready to move on.
+
+**Link(s)** 
+https://www.learnenough.com/command-line-tutorial
+
+
 ### Day 22: Mar 6, Monday
 
 **Today's Progress**: I went through more Ruby the Hard Way exercises. A lot of them offline.
