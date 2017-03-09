@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 24: Mar 8, Wednesday
+
+**Today's Progress**: Some progress with Vim. Not a lot of time today but at least a little bit of it.
+
+**Thoughts** I'm highly motivated but didn't have so much time today.
+
+**Link(s)** 
+
+
+
 ### Day 23: Mar 7, Tuesday
 
 **Today's Progress**: Command line. All of it. A whole day of command line.
