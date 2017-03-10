@@ -1,12 +1,22 @@
 # 100 Days Of Code - Log
 
+### Day 25: Mar 9, Thursday
+
+**Today's Progress**: Only one or so exercise, but I went to the Ruby meetup and learned a lot about how Brexit will affect digital laws and therefore developers
+
+**Thoughts** TIL: we're fucked.
+
+**Link(s)** 
+
+
 ### Day 24: Mar 8, Wednesday
 
 **Today's Progress**: Some progress with Vim. Not a lot of time today but at least a little bit of it.
 
 **Thoughts** I'm highly motivated but didn't have so much time today.
 
-**Link(s)** 
+**Link(s)** https://webdevlaw.uk/
+https://github.com/finnporter/100-days-of-code/tree/master/lrthw ex32..ex33
 
 
 
