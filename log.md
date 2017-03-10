@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 26: Mar 10, Friday
+
+**Today's Progress**: Completed two exercises and am now working on a third. According to the instructions it should take a week or so, for a text based adventure game.
+
+**Thoughts** The two exercises were pretty tough but I love the idea of writing a text based game.
+
+**Link(s)**
+https://github.com/finnporter/100-days-of-code/tree/master/lrthw ex34..35
+
 ### Day 25: Mar 9, Thursday
 
 **Today's Progress**: Only one or so exercise, but I went to the Ruby meetup and learned a lot about how Brexit will affect digital laws and therefore developers
@@ -7,7 +16,7 @@
 **Thoughts** TIL: we're fucked.
 
 **Link(s)** 
-
+https://webdevlaw.uk/
 
 ### Day 24: Mar 8, Wednesday
 
@@ -15,7 +24,7 @@
 
 **Thoughts** I'm highly motivated but didn't have so much time today.
 
-**Link(s)** https://webdevlaw.uk/
+**Link(s)**
 https://github.com/finnporter/100-days-of-code/tree/master/lrthw ex32..ex33
 
 
