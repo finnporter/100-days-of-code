@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 27: Mar 11, Saturday
+
+**Today's Progress**: Still working on the adventure game. The crude frame is done, now I need to go over it and see if things can be made easier, prettier, etc.
+
+**Thoughts** It's quite fun to work on something that I came up with instead of just doing strict exercises.
+
+**Link(s)**
+
+
 ### Day 26: Mar 10, Friday
 
 **Today's Progress**: Completed two exercises and am now working on a third. According to the instructions it should take a week or so, for a text based adventure game.
