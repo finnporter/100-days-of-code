@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 28: Mar 12, Sunday
+
+**Today's Progress**: Still working on the adventure game. Wasn't able to figure out how to hop back and forth between rb files. But not starting at the top (require <file>) but starting at a specific function.
+
+**Thoughts** I notice it's hard if you want to do things that are not practical and therefore never used. There is not a lot of documentation about it. But to practice and figure out some concepts, it would be really good to do these things.
+
+**Link(s)**
+
+
 ### Day 27: Mar 11, Saturday
 
 **Today's Progress**: Still working on the adventure game. The crude frame is done, now I need to go over it and see if things can be made easier, prettier, etc.
