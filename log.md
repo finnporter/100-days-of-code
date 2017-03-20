@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 29: Mar 20, Monday
+
+**Today's Progress**: I've finally finished ex36.
+
+**Thoughts** Health setbacks are the worst. They always make me break my streaks, and I was doing so well. damn.
+
+**Link(s)**
+https://github.com/finnporter/100-days-of-code/tree/master/lrthw ex36
+
+
+
 ### Day 28: Mar 12, Sunday
 
 **Today's Progress**: Still working on the adventure game. Wasn't able to figure out how to hop back and forth between rb files. But not starting at the top (require <file>) but starting at a specific function.
