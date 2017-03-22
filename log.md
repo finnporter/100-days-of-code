@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 30: Mar 22, Wednesday
+
+**Today's Progress**: More flash cards and another exercise.
+
+**Thoughts** All this waiting for answers to job applicatons and generally not knowing what and when is really getting to me and I can tell by the slow progress I'm making with programming.
+
+**Link(s)**
+https://github.com/finnporter/100-days-of-code/tree/master/lrthw ex38
+
+
 ### Day 29: Mar 20, Monday
 
 **Today's Progress**: I've finally finished ex36.
