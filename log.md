@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 31: Apr 2, Sunday
+
+**Today's Progress**: Another ruby exercise
+
+**Thoughts** I've applied to a coding bootcamp and that's taken the pressure off doing the 100 days of coding challenge. So now I'm still learning whenever there is time between all the other things going on. But since ruby will be taught at the bootcamp there is no need to push myself to daily exercises anymore. The stress will begin soon enough.
+
+**Link(s)**
+https://github.com/finnporter/100-days-of-code/tree/master/lrthw ex40..40a
+
+
 ### Day 30: Mar 22, Wednesday
 
 **Today's Progress**: More flash cards and another exercise.
