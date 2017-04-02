@@ -7,7 +7,7 @@
 **Thoughts** I've applied to a coding bootcamp and that's taken the pressure off doing the 100 days of coding challenge. So now I'm still learning whenever there is time between all the other things going on. But since ruby will be taught at the bootcamp there is no need to push myself to daily exercises anymore. The stress will begin soon enough.
 
 **Link(s)**
-https://github.com/finnporter/100-days-of-code/tree/master/lrthw ex40..40a
+https://github.com/finnporter/100-days-of-code/tree/master/lrthw ex40..41 (41 is a very useful script to learn how to speak code)
 
 
 ### Day 30: Mar 22, Wednesday
