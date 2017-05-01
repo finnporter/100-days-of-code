@@ -1,5 +1,8 @@
 # 100 Days Of Code - Log
 
+I'LL START A CODING BOOTCAMP TODAY, THEREFORE I WON'T BE UPDATING THIS LOG ANYMORE BUT REST ASSURED, I'LL CODE EVERY DAY!
+
+
 ### Day 31: Apr 2, Sunday
 
 **Today's Progress**: Another ruby exercise
